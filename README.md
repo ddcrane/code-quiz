@@ -1,5 +1,8 @@
-# Module 4 Challenge: Quiz!
+# Code Quiz
 
-https://ddcrane.github.io/module-4-challenge/
+Test your knowledge!
+
+
+https://github.com/ddcrane/code-quiz
 
 <img src="./assets/screenshot/screenshot-bg.png" />
