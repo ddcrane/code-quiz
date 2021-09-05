@@ -3,6 +3,6 @@
 Test your knowledge!
 
 
-https://github.com/ddcrane/code-quiz
+https://ddcrane.github.io/code-quiz/
 
 <img src="./assets/screenshot/screenshot-bg.png" />
