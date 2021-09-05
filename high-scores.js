@@ -2,6 +2,7 @@ var highScore = document.querySelector("#high-score");
 var clear = document.querySelector("#clear");
 var goBack = document.querySelector("#go-back");
 
+
 var allScores = localStorage.getItem("allScores");
 allScores = JSON.parse(allScores);
 
